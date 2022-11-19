@@ -19,3 +19,5 @@ Project Website link : https://python-flask-app-bktkv-2022-11-17-exhausted-lion-
 
 Project demo Drive link:https://drive.google.com/file/d/1mg2Vt9BapsLl3Nq166aCabAZHYH76eIN/view?usp=sharing
 
+Project demo GIT link: https://github.com/IBM-EPBL/IBM-Project-22193-1659807644/tree/main/Final%20Deliverables
+
