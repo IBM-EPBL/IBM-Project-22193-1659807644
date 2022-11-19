@@ -15,4 +15,7 @@ Team members:
 
 Students are often worried about their chances of admission to University. The aim of this project is to help students in shortlisting universities with their profiles. The predicted output gives them a fair idea about their admission chances in a particular university. This analysis should also help students who are currently preparing or will be preparing to get a better idea.
 
+Project Website link : https://python-flask-app-bktkv-2022-11-17-exhausted-lion-vl.mybluemix.net/
+
 Project demo Drive link:https://drive.google.com/file/d/1mg2Vt9BapsLl3Nq166aCabAZHYH76eIN/view?usp=sharing
+
